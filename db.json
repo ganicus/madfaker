@@ -27,5 +27,27 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "companies": [
+        {
+            "name": "Microsoft",
+            "id": 1
+        },
+        {
+            "name": "Google",
+            "id": 2
+        },
+        {
+            "name": "Facebook",
+            "id": 3
+        },
+        {
+            "name": "Apple",
+            "id": 4
+        },
+        {
+            "name": "Amazon",
+            "id": 5
+        }
+    ]
 }
