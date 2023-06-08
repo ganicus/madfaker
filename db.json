@@ -49,5 +49,57 @@
             "name": "Amazon",
             "id": 5
         }
+    ],
+    "options": [
+        {
+            "name": "Option 1",
+            "id": 1,
+            "type": "A"
+        },
+        {
+            "name": "Option 2",
+            "id": 2,
+            "type": "A"
+        },
+        {
+            "name": "Option 3",
+            "id": 3,
+            "type": "B"
+        },
+        {
+            "name": "Option 4",
+            "id": 4,
+            "type": "B"
+        },
+        {
+            "name": "Option 5",
+            "id": 5,
+            "type": "C"
+        },
+        {
+            "name": "Option 6",
+            "id": 6,
+            "type": "C"
+        },
+        {
+            "name": "Option 7",
+            "id": 7,
+            "type": "D"
+        },
+        {
+            "name": "Option 8",
+            "id": 8,
+            "type": "D"
+        },
+        {
+            "name": "Option 9",
+            "id": 9,
+            "type": "E"
+        },
+        {
+            "name": "Option 10",
+            "id": 10,
+            "type": "E"
+        }
     ]
 }
