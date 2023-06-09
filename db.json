@@ -101,5 +101,41 @@
             "id": 10,
             "type": "E"
         }
+    ],
+    "items": [
+        {
+        "id" : 1,
+        "name" : "Item 1",
+        "staff_comments" : "Staff comments",
+        "dkp_item_no" : "DKP-123",
+        "vendor_item_no" : "VENDOR-123",
+        "style_id" : 2,
+        "color_id": 1,
+        "fabric_id": 1,
+        "gender" : "M",
+        "quantity" : 10,
+        "description" : "Description",
+        "created" : "2016-01-01 00:00:00",
+        "created_id" : 1,
+        "modified" : "2016-01-01 00:00:00",
+        "modified_id" : 1,
+        "status" : "A",
+        "old_id" : 1,
+        "images" : [
+            {
+                "id" : 1,
+                "item_id" : 1,
+                "image" : "image1.jpg",
+                "default_image" : 1
+            },
+            {
+                "id" : 2,
+                "item_id" : 1,
+                "image" : "image2.jpg",
+                "default_image" : 0
+            }
+        ],
+        "default_image" : "image1.jpg"
+        }
     ]
 }
